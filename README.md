@@ -1,0 +1,1 @@
+An example to display handling auto-dependencies.
